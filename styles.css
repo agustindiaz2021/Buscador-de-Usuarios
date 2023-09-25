@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: burlywood;
+    text-align: center;
+}
+
+.contenedor-busqueda {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+
+button:hover {
+    border-radius: 5px;
+    background-color:blue;
+}
+
+#buscadorUser {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#resultados {
+    margin: 20px;
+}
